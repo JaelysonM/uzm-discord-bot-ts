@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to UzmDBot With TS 👋</h1>
+<h1 align="center">Uzm-D-Bot /W TS 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.50-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -11,19 +11,14 @@
 
 > Um projeto de um Bot para Discord desenvolvido totalmente com TypeScript, com características únicas e escalonável para vários servidores.
 
-## Usage
+## Uso
 
 ```sh
 yarn run start
 ```
 
-## Run tests
 
-```sh
-yarn run test
-```
-
-## Author
+## Autor
 
 👤 **Jaelyson Martins**
 
@@ -31,9 +26,8 @@ yarn run test
 * Github: [@JaelysonM](https://github.com/JaelysonM)
 * LinkedIn: [@jaelysonm](https://linkedin.com/in/jaelysonm)
 
-## Show your support
+## Mostre seu suporte!
 
-Give a ⭐️ if this project helped you!
+Dê uma ⭐️ se esse projeto ajudou você 😊.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
